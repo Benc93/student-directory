@@ -21,3 +21,9 @@ puts "Pavel Redics"
 puts "Simon Lance"
 puts "Clare Trembath"
 puts "Ayo Obembe"
+puts "Ben Conway"
+
+print "Overall, we have "
+print 22
+puts " great students"
+
