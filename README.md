@@ -1,4 +1,7 @@
-##Pre-course exercise: Student Directory 
+##Pre-course exercise: Student Directory
+
+![srespto_directory](https://cloud.githubusercontent.com/assets/9297921/5589205/21eccc06-9111-11e4-8ab0-1e4172193f05.png)
+
 
 ####Summary of Activity  
     
